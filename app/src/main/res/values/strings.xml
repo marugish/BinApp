@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BinApp</string>
+    <string name="information">BIN Information</string>
+    <string name="bin_info">Enter the first 6 to 8 digits of a card number (BIN/IIN)</string>
+    <string name="initial_bin_info">Enter the first 6 to 8 digits of a card number (BIN/IIN) to see the information.</string>
+    <string name="lookup">Lookup</string>
+    <string name="history">History</string>
+    <string name="click_here">Click here to view request history</string>
+</resources>
